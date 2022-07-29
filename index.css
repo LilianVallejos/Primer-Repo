@@ -1,0 +1,25 @@
+body {
+    margin: 1%;
+}
+img {
+    width: 20%;
+    height: 20%;
+    margin: 1%;
+}
+
+.diseño {
+    background-image: url(./img/gliter.jpg);
+    font-size: x-large ;
+}
+
+.unico {
+    background-image: url(./img/dolar.jpg);
+}
+   
+h1 {
+    text-align: center;
+    font-size: large;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #ffffff;
+
+}
